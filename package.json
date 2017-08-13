@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "api": "node ratingsAPI.js",
     "build": "NODE_ENV=production webpack -p",
     "build:dev": "NODE_ENV=development webpack -d",
     "dev": "webpack-dev-server",
